@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/github.io/react_native/static/css/main.858259ee.css",
-    "main.js": "/github.io/react_native/static/js/main.86f740e6.js",
-    "static/media/scene.png": "/github.io/react_native/static/media/scene.0c9a4cc167442c9b3806.png",
-    "static/media/mockup.png": "/github.io/react_native/static/media/mockup.db6381a867d29be0934a.png",
-    "static/media/feature.png": "/github.io/react_native/static/media/feature.54eb71fb8a918fd5e4f6.png",
-    "static/media/home_hero.png": "/github.io/react_native/static/media/home_hero.08651b83de3b3167695a.png",
-    "static/media/home_cards.png": "/github.io/react_native/static/media/home_cards.c5b24fac95f88325335b.png",
-    "static/media/react.png": "/github.io/react_native/static/media/react.9667fe052f9577c58a34.png",
-    "static/media/banner02.svg": "/github.io/react_native/static/media/banner02.2f6ba07c3ed4697086f7.svg",
-    "static/media/banner03.svg": "/github.io/react_native/static/media/banner03.a278a430daff7d7a2a6e.svg",
-    "static/media/banner.svg": "/github.io/react_native/static/media/banner.3c310352a6d940cab963.svg",
-    "static/media/banner04.svg": "/github.io/react_native/static/media/banner04.b43b10b807bb6396ac49.svg",
-    "index.html": "/github.io/react_native/index.html",
-    "main.858259ee.css.map": "/github.io/react_native/static/css/main.858259ee.css.map",
-    "main.86f740e6.js.map": "/github.io/react_native/static/js/main.86f740e6.js.map"
+    "main.css": "/pronef_showcase/static/css/main.8df08f5d.css",
+    "main.js": "/pronef_showcase/static/js/main.35fbb473.js",
+    "static/media/scene.png": "/pronef_showcase/static/media/scene.0c9a4cc167442c9b3806.png",
+    "static/media/mockup.png": "/pronef_showcase/static/media/mockup.db6381a867d29be0934a.png",
+    "static/media/feature.png": "/pronef_showcase/static/media/feature.54eb71fb8a918fd5e4f6.png",
+    "static/media/home_hero.png": "/pronef_showcase/static/media/home_hero.08651b83de3b3167695a.png",
+    "static/media/home_cards.png": "/pronef_showcase/static/media/home_cards.c5b24fac95f88325335b.png",
+    "static/media/react.png": "/pronef_showcase/static/media/react.9667fe052f9577c58a34.png",
+    "static/media/banner02.svg": "/pronef_showcase/static/media/banner02.2f6ba07c3ed4697086f7.svg",
+    "static/media/banner03.svg": "/pronef_showcase/static/media/banner03.a278a430daff7d7a2a6e.svg",
+    "static/media/banner.svg": "/pronef_showcase/static/media/banner.3c310352a6d940cab963.svg",
+    "static/media/banner04.svg": "/pronef_showcase/static/media/banner04.b43b10b807bb6396ac49.svg",
+    "index.html": "/pronef_showcase/index.html",
+    "main.8df08f5d.css.map": "/pronef_showcase/static/css/main.8df08f5d.css.map",
+    "main.35fbb473.js.map": "/pronef_showcase/static/js/main.35fbb473.js.map"
   },
   "entrypoints": [
-    "static/css/main.858259ee.css",
-    "static/js/main.86f740e6.js"
+    "static/css/main.8df08f5d.css",
+    "static/js/main.35fbb473.js"
   ]
 }
