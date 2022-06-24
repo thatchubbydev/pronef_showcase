@@ -14,8 +14,8 @@ export const Download = () => {
           <p className={`${styles.pText}`}>Get the full source code on GitHub</p>
           {/* button container  */}
           <div className=''>
-            <a href="https://github.com/thatchubbydev/react_native" target="_blank"><button className={`${styles.btnPrimary} mr-8`}>Expo app</button></a>
-            <a href="" target="_blank"><button className={`${styles.btnPrimary}`}>website</button></a>
+            <a href="https://github.com/thatchubbydev/react_native" target="_blank"><button className={`${styles.btnPrimary} mr-8`}>Expo app code</button></a>
+            <a href="https://github.com/thatchubbydev/pronef_showcase" target="_blank"><button className={`${styles.btnPrimary}`}>website code</button></a>
           </div>
           
         </div>

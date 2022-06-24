@@ -7,8 +7,8 @@ const Button = ({imgUrl,link}) => {
     onClick={()=> window.open(link,'_blank')}>
       <img className={`${styles.btnIcon}`} src={imgUrl} />
       <div className={`flex flex-col pl-4`}>
-        <p className={`text-white text-xs font-normal`}>View it on</p>
-        <h1 className={`${styles.btnText} font-bold `}>Expo Store</h1>
+        <p className={`text-white text-xs font-normal`}>Click to view the app</p>
+        <h1 className={`${styles.btnText} font-bold `}>On Expo Store</h1>
       </div>
 
     </div>
